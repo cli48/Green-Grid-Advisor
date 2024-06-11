@@ -20,4 +20,4 @@ Instead of continuing with the app in Kotlin, we've developed a new and improved
 Given are two PDFs, one is the documentation written for the project and the other a IEEE draft paper both written by Calvin Li and Nicholas prokoso. The documentation is a indepth look into the original build of green grid advisor before the swap over to the web application build.
 
 # Disclaimer
-Please do not reuse my material without permission, please contact me at calvinhuanli@gmail.com for inquires about this project. More documentation on code can be provided upon request.
+Please do not reuse my material without permission, please contact me at calvinhuanli@gmail.com for inquires about this project. More documentation on code for web app can be provided upon request.
